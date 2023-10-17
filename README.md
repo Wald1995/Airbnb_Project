@@ -1,4 +1,4 @@
-# Project 3 Team 5 (Juan Reyes, Oswaldo Solano & Fernando Escamilla)
+# Project 3 Team 5 (Oswaldo Solano, Juan Reyes & Fernando Escamilla)
 # Airbnb_Project
 # Objective
 - The objective is to create some visualizations and develop a Python Flask API that includes the HTML to present the information
